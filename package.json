@@ -1,0 +1,32 @@
+{
+  "name": "vue-konva-splines",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "konva": "8.4.2",
+    "vue": "3.2.47",
+    "vue-konva": "3.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0-0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "keywords": [
+    "vue",
+    "canvas",
+    "vue-konva",
+    "konva"
+  ]
+}
